@@ -17,10 +17,14 @@ header {
         color: #EEEFAF;
         margin: 0 auto;
         padding: 16px;
+
+        display: flex;
 }
 
 article{
         display: flex;
+
+        border: 1px solid #a303f3;
 }
 
 img{
