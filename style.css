@@ -25,6 +25,10 @@ article{
         display: flex;
 
         border: 1px solid #a303f3;
+
+        margin: 16px;
+        gap: 16px;
+        padding: 16px;
 }
 
 img{
